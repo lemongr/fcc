@@ -4,6 +4,7 @@
 	"description": "something something",
 	"keywords": ["freecodecamp", "something", "else"],
 	"license": "MIT",
+	"version": "1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
